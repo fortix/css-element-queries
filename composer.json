@@ -1,0 +1,18 @@
+{
+  "name": "css-element-queries",
+  "description": "CSS-Element-Queries Polyfill. Proof-of-concept for high-speed element dimension/media queries in valid css.",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Marc J. Schmidt",
+    }
+  ],
+  "type": "library",
+  "require": {
+    "php": ">=8.1"
+  },
+  "require-dev": {
+    "grunt": "^0.4.5",
+    "grunt-bump": "^0.3.1"
+  }
+}
